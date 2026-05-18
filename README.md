@@ -116,6 +116,7 @@ API = sistema de comunicação entre aplicações.
 
 A API recebe mensagens e retorna respostas.
 
+-Vá em console.groq, logue e crie uma chave API para usar o chatbot
 Exemplo:
 
 ```text
