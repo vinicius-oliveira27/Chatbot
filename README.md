@@ -110,7 +110,7 @@ Pode ser:
 
 ---
 
-## API REST
+## API KEY
 
 API = sistema de comunicação entre aplicações.
 
@@ -175,9 +175,8 @@ Chatbot desenvolvido para estudos de integração com IA, APIs REST e estrutura�
 ## Tecnologias
 
 - Python
-- Flask
 - Git/GitHub
-- API REST
+- API
 
 ---
 
@@ -192,7 +191,7 @@ prompts/
 
 ---
 
-## Como executar
+# Como executar
 
 
 ### Entrar na pasta
