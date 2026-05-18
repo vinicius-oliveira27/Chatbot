@@ -116,7 +116,7 @@ API = sistema de comunicação entre aplicações.
 
 A API recebe mensagens e retorna respostas.
 
--Vá em console.groq, logue e gere uma chave API, coloque a chave no campo selecionado no código para usar o chatbot
+-Vá em console.groq, logue, vá no campo de criação de chaves API, gere uma chave API e coloque a chave no campo selecionado no código para usar o chatbot.
 
 ---
 
@@ -194,11 +194,6 @@ prompts/
 
 ## Como executar
 
-### Clonar projeto
-
-```bash
-git clone URL_DO_PROJETO
-```
 
 ### Entrar na pasta
 
@@ -225,8 +220,6 @@ python app.py
 - Recebimento de mensagens
 - Processamento de prompts
 - Respostas automatizadas
-- Estrutura modular
-
 ---
 
 ## Melhorias futuras
@@ -235,4 +228,3 @@ python app.py
 - Interface web
 - Autenticação
 - Histórico de conversas
-
