@@ -12,7 +12,7 @@ Pragmata AI
 
 ## Contexto do Projeto
 
-O projeto consiste em um chatbot simples com integração de inteligência artificial e estruturação de prompts técnicos.
+O projeto consiste em um chatbot simples com integração de inteligência artificial e estruturação de prompts técnicos, especialista no jogo Pragmata.
 
 O sistema recebe mensagens do usuário, processa a entrada e retorna respostas automatizadas.
 
