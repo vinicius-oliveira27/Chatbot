@@ -159,7 +159,7 @@ Utilizado para:
 
 ## Descrição
 
-Chatbot desenvolvido para estudos de integração com IA, APIs REST e estruturação de prompts técnicos.
+Chatbot desenvolvido para estudos de integração com IA, APIs REST e estruturação de prompts técnicos, especialista no jogo Pragmata.
 
 ---
 
@@ -180,37 +180,21 @@ Chatbot desenvolvido para estudos de integração com IA, APIs REST e estrutura�
 
 ---
 
-## Estrutura do Projeto
-
-```text
-src/
-api/
-services/
-prompts/
-```
-
----
-
 # Como executar
 
 
 ### Entrar na pasta
 
-```bash
-cd chatbot-ai-assistant
-```
+Entre na pasta do colab
 
 ### Instalar dependências
 
-```bash
-pip install -r requirements.txt
-```
+!pip install langchain-core
+!pip install langchain-groq
 
 ### Executar projeto
 
-```bash
-python app.py
-```
+Clique em executar no colab
 
 ---
 
