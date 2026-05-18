@@ -29,7 +29,7 @@ O projeto foi desenvolvido para:
 
 ---
 
-# 2. Visão Geral da Solução
+# Visão Geral da Solução
 
 ## Como o sistema funciona
 
@@ -80,7 +80,7 @@ O chatbot devolve:
 
 ---
 
-# 3. Arquitetura da Solução
+# Arquitetura da Solução
 
 # Estrutura da arquitetura
 
@@ -151,7 +151,7 @@ Utilizado para:
 * usuários;
 * logs;
 
-# 5. README.md Profissional do Projeto
+# README.md Profissional do Projeto
 
 
 ````md
