@@ -1,6 +1,6 @@
 # Projeto Chatbot IA — 
 
-# Objetivo do Projeto
+---
 
 ## Nome do Projeto
 
@@ -241,7 +241,3 @@ python app.py
 - Autenticação
 - Histórico de conversas
 
-## Licença
-
-MIT License
-````
